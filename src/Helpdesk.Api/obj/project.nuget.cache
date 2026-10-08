@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2yyCU7d88bU=",
+  "success": true,
+  "projectFilePath": "/home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Api/Helpdesk.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/kabelom06/.nuget/packages/microsoft.aspnetcore.openapi/10.0.12/microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "/home/kabelom06/.nuget/packages/microsoft.openapi/2.12.0/microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

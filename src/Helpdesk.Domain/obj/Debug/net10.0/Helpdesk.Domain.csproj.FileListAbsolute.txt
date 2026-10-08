@@ -1,0 +1,11 @@
+/home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Domain/bin/Debug/net10.0/Helpdesk.Domain.deps.json
+/home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Domain/bin/Debug/net10.0/Helpdesk.Domain.dll
+/home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Domain/bin/Debug/net10.0/Helpdesk.Domain.pdb
+/home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Domain/obj/Debug/net10.0/Helpdesk.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Domain/obj/Debug/net10.0/Helpdesk.Domain.AssemblyInfoInputs.cache
+/home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Domain/obj/Debug/net10.0/Helpdesk.Domain.AssemblyInfo.cs
+/home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Domain/obj/Debug/net10.0/Helpdesk.Domain.csproj.CoreCompileInputs.cache
+/home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Domain/obj/Debug/net10.0/Helpdesk.Domain.dll
+/home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Domain/obj/Debug/net10.0/refint/Helpdesk.Domain.dll
+/home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Domain/obj/Debug/net10.0/Helpdesk.Domain.pdb
+/home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Domain/obj/Debug/net10.0/ref/Helpdesk.Domain.dll
