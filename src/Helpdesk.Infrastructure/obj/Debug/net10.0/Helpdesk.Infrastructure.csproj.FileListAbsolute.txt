@@ -15,3 +15,6 @@
 /home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Infrastructure/obj/Debug/net10.0/refint/Helpdesk.Infrastructure.dll
 /home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Infrastructure/obj/Debug/net10.0/Helpdesk.Infrastructure.pdb
 /home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Infrastructure/obj/Debug/net10.0/ref/Helpdesk.Infrastructure.dll
+/home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Infrastructure/bin/Debug/net10.0/Helpdesk.Infrastructure.runtimeconfig.json
+/home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Infrastructure/obj/Debug/net10.0/Helpdesk.Infrastructure.sourcelink.json
+/home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Infrastructure/obj/Debug/net10.0/Helpdesk.Infrastructure.genruntimeconfig.cache

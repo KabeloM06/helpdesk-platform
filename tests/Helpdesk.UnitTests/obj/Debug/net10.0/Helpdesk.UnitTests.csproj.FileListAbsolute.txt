@@ -99,3 +99,4 @@
 /home/kabelom06/dev/projects/helpdesk-platform/tests/Helpdesk.UnitTests/obj/Debug/net10.0/Helpdesk.UnitTests.pdb
 /home/kabelom06/dev/projects/helpdesk-platform/tests/Helpdesk.UnitTests/obj/Debug/net10.0/Helpdesk.UnitTests.genruntimeconfig.cache
 /home/kabelom06/dev/projects/helpdesk-platform/tests/Helpdesk.UnitTests/obj/Debug/net10.0/ref/Helpdesk.UnitTests.dll
+/home/kabelom06/dev/projects/helpdesk-platform/tests/Helpdesk.UnitTests/obj/Debug/net10.0/Helpdesk.UnitTests.sourcelink.json

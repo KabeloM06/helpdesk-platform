@@ -13,3 +13,4 @@
 /home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Application/obj/Debug/net10.0/refint/Helpdesk.Application.dll
 /home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Application/obj/Debug/net10.0/Helpdesk.Application.pdb
 /home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Application/obj/Debug/net10.0/ref/Helpdesk.Application.dll
+/home/kabelom06/dev/projects/helpdesk-platform/src/Helpdesk.Application/obj/Debug/net10.0/Helpdesk.Application.sourcelink.json
